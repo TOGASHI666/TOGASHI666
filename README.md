@@ -27,7 +27,9 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/toga_shiiii)
--**[discord] @psych_Annan#4802**
+
+
+-**[discord]** @psych_Annan#4802
 
 ## ⚡ Fun fact
  -**The first computer virus was created for fun – it was called "Creeper" and it would display the message "I'm the creeper, catch me if you can!"**
