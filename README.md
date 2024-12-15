@@ -7,6 +7,10 @@
 
 ##  🕶️ Skills
 
+-**C#:** Developing tools and extensions for game development.
+
+-**MySQL:** Experienced in managing databases, writing SQL queries, and creating robust data-driven solutions for web and application development. Proficient in designing efficient schemas, handling complex joins, and optimizing database performance.
+
 -**pawn:** Skilled in creating and optimizing SA-MP server scripts.
 
 -**C++:** Proficient in developing performance-critical systems and game mechanics.
