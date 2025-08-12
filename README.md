@@ -9,13 +9,13 @@
 
 -**C#:** Developing tools and extensions for game development.
 
--**MySQL:** Experienced in managing databases, writing SQL queries, and creating robust data-driven solutions for web and application development. Proficient in designing efficient schemas, handling complex joins, and optimizing database performance.
+-**MySQL:** Experienced in managing databases, writing SQL queries, and creating robust data driven solutions for web and application development. Proficient in designing efficient schemas, handling complex joins, and optimizing database performance.
 
 -**pawn:** Skilled in creating and optimizing SA-MP server scripts.
 
 -**C++:** Proficient in developing performance-critical systems and game mechanics.
 
--**Lua:** Experienced in scripting for game development, managing in-game logic.
+-**Lua:** Experienced in scripting for game development, managing in game logic.
 
 -**C:** Proficient in low-level programming for performance optimization and systems development.
 
@@ -36,7 +36,7 @@
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/891329816001916998)
 
 ## ⚡ Fun fact
- -**The first computer virus was created for fun – it was called "Creeper" and it would display the message "I'm the creeper, catch me if you can!"**
+ -**The first computer virus was created for fun ... it was called "Creeper" and it would display the message "I'm the creeper, catch me if you can!"**
  
  ## 💞️ I’m looking to collaborate on open-source projects, SA-MP scripts, and game development initiatives.
  
